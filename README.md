@@ -1,6 +1,8 @@
 # 🍱 Taami Project -Data Analysis- Phase 1
 This project analyzes real data from Taami (Food Preservation Charity) to identify trends in food donations, understand the causes of food waste, and provide actionable insights to help Taami improve food distribution, reduce waste, and ultimately increase its impact on community food security.
 
+---
+
 ## 📌 Project Overview
 This project analyzes real data provided by **Taami (Food Preservation Charity)** to identify trends in food donations, understand the causes of food waste, and support better decision-making to enhance food management efficiency.
 
@@ -11,6 +13,8 @@ The primary goal of this project is to convert raw data from the charity into ac
 - Support the charity’s operational planning and decision-making.
 
 This project is part of my data analysis learning journey and applies analytical skills to support social impact initiatives.
+
+---
 
 ## 🚀 Phase 1: Completed Tasks
 
@@ -31,6 +35,8 @@ This project is part of my data analysis learning journey and applies analytical
 - Identified specific days with unusually high food waste.
 - Designed early visual charts to present results.
 
+---
+
 ## ⚙️ Tools and Technologies
 
 |         Tool        |               Purpose              |
@@ -39,6 +45,8 @@ This project is part of my data analysis learning journey and applies analytical
 |     **GitHub**      | Version control and documentation  |
 | **CSV/Excel files** |         Data source format         |
 
+---
+
 ## 📊 Sample Visualization
 Below is an example chart comparing valid and invalid food quantities over three months (101 Days).
 
@@ -46,12 +54,12 @@ Below is an example chart comparing valid and invalid food quantities over three
 
 **(This visualization demonstrates the overall food quality trend and identifies peak waste days.)**
 
+---
+
 ## 🔮 Next Steps (Phase 2 -Final-)
 
 - Build an **interactive dashboard** for monthly updates.  
 - Automate **data imports and cleaning scripts**.  
 - Enhance **visual storytelling** using Python and advanced libraries like Plotly or Seaborn. 
 - Publish full project documentation and dashboards on GitHub Pages.
-
-
 
