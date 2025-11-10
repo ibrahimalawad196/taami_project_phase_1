@@ -1,5 +1,7 @@
 # 🍱 Taami Project -Data Analysis- Phase 1
 This project analyzes real data from Taami (Food Preservation Charity) to identify trends in food donations, understand the causes of food waste, and provide actionable insights to help Taami improve food distribution, reduce waste, and ultimately increase its impact on community food security.
+> Note: The original dataset used in this project contains real, anonymized data provided by Taami.
+> For privacy reasons, only sample visual outputs are shared publicly in this repository.
 
 ---
 
@@ -62,4 +64,3 @@ Below is an example chart comparing valid and invalid food quantities over three
 - Automate **data imports and cleaning scripts**.  
 - Enhance **visual storytelling** using Python and advanced libraries like Plotly or Seaborn. 
 - Publish full project documentation and dashboards on GitHub Pages.
-
