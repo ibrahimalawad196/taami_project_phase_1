@@ -51,7 +51,7 @@ This project is part of my data analysis learning journey and applies analytical
 
 ## 📊 Sample Visualization
 Below is an example chart comparing valid and invalid food quantities over three months (101 Days).
-
+![Show Visual](DataVis.png)
 **(This visualization demonstrates the overall food quality trend and identifies peak waste days.)**
 
 ---
